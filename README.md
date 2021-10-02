@@ -6,7 +6,7 @@ Threee steps to use it
 
 1. Add this in the head tag
 ```
-<link href="https://devhassan2001.github.io/Ham_Animation_1/ham_1.css " rel="stylesheet">
+<link href="https://devhassan2001.github.io/Ham_Animation_1/ham_1.css" rel="stylesheet">
 ```
 
 2. Add this to the end of the body tag
