@@ -25,8 +25,8 @@ Threee steps to use it
     ></div>
 ```
 
-## Defualt data
-in the thrid step the data attributes represent the defualt data for the animation
+## Default data
+in the third step, the data attributes represent the default data for the animation
 
 Data Name | Description | Defualt value
 --------- | ----------- | -------------
